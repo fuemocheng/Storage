@@ -11,3 +11,6 @@ Note that the most of plugins (including Plugin Manager) are not yet available i
 
 #### 2、HackFont v3.003
 https://sourcefoundry.org/hack/
+
+#### 3、Q-Dir v7.09
+http://www.softwareok.com/?seite=Freeware/Q-Dir
